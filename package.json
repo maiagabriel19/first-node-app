@@ -1,0 +1,11 @@
+{
+  "name": "first-node-app",
+  "version": "1.0.0",
+  "description": "primeiro projeto node",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "gabriel",
+  "license": "ISC"
+}
